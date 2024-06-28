@@ -41,3 +41,8 @@ Los patrones tendrán su ejemplo práctico en el lenguaje Python
 * **Strategy**: Permitir la selección de un algoritmo en tiempo de ejecución.
 * **State**: Cambios de comportamiento de un objeto cuando su estado interno cambia.
 * **Chain of Responsibility**: Pasar solicitudes a lo largo de una cadena de manejadores.
+
+| Patrones | Nombre |
+|----------|--------|
+| Creacionales | [SINGLETON](./Patrones/Singleton/INFO.md) |
+| Creacionales | [FACTORY METHOD](./Patrones/FactoryMethod/INFO.md) |
