@@ -5,6 +5,7 @@
 El patrón Factory Method define una interfaz para crear un objeto, pero permite que las subclases decidan qué clase instanciar. De esta manera, el patrón delega el proceso de creación a las subclases.
 
 ## Problema que Resuelve
+
 En muchos casos, las aplicaciones necesitan crear objetos de diversas clases derivadas de una clase base común. Si el código de creación de estos objetos está incrustado en la aplicación, resulta difícil agregar nuevas clases derivadas sin modificar el código existente. Esto rompe el principio de abierto/cerrado (Open/Closed Principle) de SOLID, que establece que las clases deben estar abiertas a la extensión pero cerradas a la modificación.
 
 ## Estructura
