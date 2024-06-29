@@ -46,3 +46,4 @@ Los patrones tendrán su ejemplo práctico en el lenguaje Python
 |----------|--------|
 | Creacionales | [SINGLETON](./Patrones/Singleton/INFO.md) |
 | Creacionales | [FACTORY METHOD](./Patrones/FactoryMethod/INFO.md) |
+| Creacionales | [BUILDER](./Patrones/Builder/INFO.md) |
