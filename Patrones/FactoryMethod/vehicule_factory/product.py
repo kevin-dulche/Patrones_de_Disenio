@@ -6,7 +6,7 @@ class Vehicle(ABC):
         pass
 
 class Car(Vehicle):
-    def __init__(self, model):
+    def __init__(self, model: str):
         self.__model = model
 
     def deliver(self):
