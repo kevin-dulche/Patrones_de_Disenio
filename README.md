@@ -48,5 +48,4 @@ Los patrones tendrán su ejemplo práctico en el lenguaje Python
 | Creacionales | [FACTORY METHOD](./Patrones/FactoryMethod/INFO.md) |
 | Creacionales | [BUILDER](./Patrones/Builder/INFO.md) |
 | Creacionales | [PROTOTYPE](./Patrones/Prototype/INFO.md) |
-| Creacionales | [ABSTRACT FACTORY](./Patrones/) |
-<!-- Pendiente -->
+| Creacionales | [ABSTRACT FACTORY](./Patrones/AbstractFactory/INFO.md) |
